@@ -1,2 +1,2 @@
 # XAI_Projects
-XAI (Explainable AI Projects)
+XAI (Explainable AI) Projects
