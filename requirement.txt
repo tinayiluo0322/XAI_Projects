@@ -10,7 +10,7 @@ torch==2.0.1
 torchvision==0.15.2
 tensorflow==2.11.0
 
-# PyTorch Lightning (optional, if you're using it)
+# PyTorch Lightning
 pytorch-lightning==2.0.0
 
 # Image Processing and Augmentation
